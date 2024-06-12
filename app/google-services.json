@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758462345239",
+    "project_id": "personal-finance-tracker-44e6b",
+    "storage_bucket": "personal-finance-tracker-44e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758462345239:android:30f27baf29829ee6bfac52",
+        "android_client_info": {
+          "package_name": "com.kavatamusyoka.mypersonalfinancetrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sA6oiTT9sermm1bF2Fe7sAwjB1-MK64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
